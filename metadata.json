@@ -1,0 +1,8 @@
+{
+  "name": "Aforo por Flotador",
+  "description": "Aplicación móvil para aforo de caudales por método del flotador con cronómetro integrado, cálculo de sección hidráulica, base de datos local y exportación en PDF.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
